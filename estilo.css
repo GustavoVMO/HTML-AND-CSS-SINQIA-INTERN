@@ -1,9 +1,27 @@
-body{
+h1{
 
-    font-family: sans-serif;
-
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+   
 }
 
-.fonte {
-    color:brown;
+.btn{
+    background-color: aquamarine;
+}
+
+body{
+    background-color: darkgrey;
+}
+
+span{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: blue;
+    font-weight: 800;
+}
+
+img{
+    width: 100%
 }
